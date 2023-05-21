@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Cryptography.java&apos; to &apos;AES_ENCRYPTION.java&apos;&#x0D;&#x0A;- Original project: &apos;AES&apos;&#x0D;&#x0A;- Original element: &apos;Cryptography.java&apos;&#x0D;&#x0A;- Renamed element: &apos;AES_ENCRYPTION.java&apos;" description="Rename compilation unit &apos;Cryptography.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Cryptography.java" name="AES_ENCRYPTION.java" references="false" stamp="1667650903395" version="1.0"/>
+</session>
